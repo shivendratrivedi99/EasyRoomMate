@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50392665243",
+    "firebase_url": "https://easyroommate-78aab.firebaseio.com",
+    "project_id": "easyroommate-78aab",
+    "storage_bucket": "easyroommate-78aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50392665243:android:1b66a5268978e03d42ca3e",
+        "android_client_info": {
+          "package_name": "com.singularity.easyroommate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50392665243-8nnfte9huofmqc65cbn6gqnjgtgehi0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.singularity.easyroommate",
+            "certificate_hash": "808793e27c8e4d8e6b9ac949a90852de7df3f55c"
+          }
+        },
+        {
+          "client_id": "50392665243-9ii53g6skvt26nqjnqsgn4jrjibom5l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvn88w3P5fOzd8uHi2o-sOFxwrfj-l6L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50392665243-9ii53g6skvt26nqjnqsgn4jrjibom5l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
